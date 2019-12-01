@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ImageClicker/static/css/main.60596b72.chunk.css",
-    "main.js": "/ImageClicker/static/js/main.6c7861b8.chunk.js",
-    "main.js.map": "/ImageClicker/static/js/main.6c7861b8.chunk.js.map",
+    "main.js": "/ImageClicker/static/js/main.f65ac10b.chunk.js",
+    "main.js.map": "/ImageClicker/static/js/main.f65ac10b.chunk.js.map",
     "runtime-main.js": "/ImageClicker/static/js/runtime-main.e7e55bcc.js",
     "runtime-main.js.map": "/ImageClicker/static/js/runtime-main.e7e55bcc.js.map",
     "static/js/2.c3748375.chunk.js": "/ImageClicker/static/js/2.c3748375.chunk.js",
     "static/js/2.c3748375.chunk.js.map": "/ImageClicker/static/js/2.c3748375.chunk.js.map",
     "index.html": "/ImageClicker/index.html",
-    "precache-manifest.34e17b95be9e13aa166534444992e041.js": "/ImageClicker/precache-manifest.34e17b95be9e13aa166534444992e041.js",
+    "precache-manifest.5c45f4850da603547d237cff2a3d1d00.js": "/ImageClicker/precache-manifest.5c45f4850da603547d237cff2a3d1d00.js",
     "service-worker.js": "/ImageClicker/service-worker.js",
     "static/css/main.60596b72.chunk.css.map": "/ImageClicker/static/css/main.60596b72.chunk.css.map",
     "static/media/logo.svg": "/ImageClicker/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e7e55bcc.js",
     "static/js/2.c3748375.chunk.js",
     "static/css/main.60596b72.chunk.css",
-    "static/js/main.6c7861b8.chunk.js"
+    "static/js/main.f65ac10b.chunk.js"
   ]
 }

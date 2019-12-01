@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8db69f28d0dea21c0916982269a9d6bc",
+    "revision": "4b738bbb74480b9962f53dde67c432ac",
     "url": "/ImageClicker/index.html"
   },
   {
-    "revision": "97083e3347515a852c4a",
+    "revision": "c902ed4f67b7e218d5fd",
     "url": "/ImageClicker/static/css/main.60596b72.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ImageClicker/static/js/2.c3748375.chunk.js"
   },
   {
-    "revision": "97083e3347515a852c4a",
-    "url": "/ImageClicker/static/js/main.6c7861b8.chunk.js"
+    "revision": "c902ed4f67b7e218d5fd",
+    "url": "/ImageClicker/static/js/main.f65ac10b.chunk.js"
   },
   {
     "revision": "541707eff8de2e144185",
